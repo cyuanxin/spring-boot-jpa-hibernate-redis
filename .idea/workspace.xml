@@ -1,967 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e0b0b16-ab02-4098-a421-9ca902043971" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/Service/ActivationService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/Service/RedisSubChannel/HandleActivationChannel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/Service/RedisSubChannel/IHandleChannelMsg.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/controller/ActivationController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/domian/SubChannel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/model/ActivateStats.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/model/activateRecord.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/repository/ActivateRecordRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/repository/ActivateStatsRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/property/ipaddress/qqwry.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular-resource/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular-resource/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular-resource/angular-resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular-resource/angular-resource.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular-resource/angular-resource.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular-resource/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular-resource/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular-resource/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/angular-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/angular.min.js.gzip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/angular/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/bootstrap-css-only/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/AUTHORS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/dist/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/dist/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/dist/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/dist/jquery.slim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/dist/jquery.slim.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/dist/jquery.slim.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/sizzle/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/sizzle/dist/sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/load.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/var/location.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/ajax/xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/attributes/attr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/attributes/classes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/attributes/prop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/attributes/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/attributes/val.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/core/DOMEval.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/core/access.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/core/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/core/parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/core/ready.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/core/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/adjustCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/showHide.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/var/getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/css/var/swap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/data/Data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/data/accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/data/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/data/var/acceptData.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/data/var/dataPriv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/data/var/dataUser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/deferred/exceptionHook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/effects/Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/effects/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/event/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/event/alias.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/event/focusin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/event/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/event/trigger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/exports/amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/exports/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/intro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/buildFragment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/createSafeFragment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/getAll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/var/nodeNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/var/rleadingWhitespace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/var/rtagName.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/manipulation/wrapMap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/offset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/outro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/queue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/queue/delay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/selector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/traversing/var/dir.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/traversing/var/siblings.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/arr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/concat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/deletedIds.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/document.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/documentElement.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/push.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/rcssNum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/slice.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/var/toString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/jquery/src/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/Changes.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/bin/md2html.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/lib/markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/seed.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features.t.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/contains_code.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/contains_code.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/lazy_wrapping.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/lazy_wrapping.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/leading_paras.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/leading_paras.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/nested.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/nested.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/simple.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/simple.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/spaceless.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/spaceless.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/threequotes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/blockquotes/threequotes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/blank_lines.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/blank_lines.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/block.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/block.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/embedded_backtick.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/embedded_backtick.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/horizontal_rules.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/horizontal_rules.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/in_lists.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/in_lists.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/inline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/inline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/inline_multiline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/inline_multiline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/trailing_para.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/code/trailing_para.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/inline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/inline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/long.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/long.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/multiple_definitions.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/multiple_definitions.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/multiple_terms.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/multiple_terms.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/tight.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/definition_lists/tight.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/emphasis/multiple_lines.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/emphasis/multiple_lines.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/emphasis/nested.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/emphasis/nested.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/emphasis/simple.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/emphasis/simple.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/headers/atx.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/headers/atx.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/headers/atx_closing_hashes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/headers/atx_closing_hashes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/headers/setext.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/headers/setext.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/headers/trailing_paras.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/headers/trailing_paras.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/abutting_blocks.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/abutting_blocks.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/dashes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/dashes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/leading_spaces.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/leading_spaces.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/long.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/long.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/long_loose.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/long_loose.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/loose_dashes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/loose_dashes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/loose_stars.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/loose_stars.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/loose_underscores.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/loose_underscores.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/stars.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/stars.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/underscores.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/horizontal_rules/underscores.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/basic.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/basic.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/crotcheted_url.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/crotcheted_url.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/crotcheted_url_with_title.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/crotcheted_url_with_title.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/empty.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/empty.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/inside_link.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/inside_link.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/ref.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/ref.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/spaces_in_href.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/spaces_in_href.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/spaces_round_title.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/spaces_round_title.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/title.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/images/title.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/linebreaks/simple.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/linebreaks/simple.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/autolink_email.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/autolink_email.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/autolink_in_code.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/autolink_in_code.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/autolink_url.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/autolink_url.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/case_insensitive.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/case_insensitive.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/implicit.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/implicit.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/in_blockquotes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/in_blockquotes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/in_brackets.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/in_brackets.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/inline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/inline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/inline_with_newline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/inline_with_newline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/inline_with_title.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/inline_with_title.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/missing_references.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/missing_references.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/parens_escaped_inline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/parens_escaped_inline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/parens_inline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/parens_inline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/parens_reference.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/parens_reference.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/ref_reuse.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/ref_reuse.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/ref_with_image_ref.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/ref_with_image_ref.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/reference.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/reference.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/reference_with_space.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/reference_with_space.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/spaces_in_url.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/links/spaces_in_url.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/bullet_types.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/bullet_types.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/hr_abutting.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/hr_abutting.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/hr_inside.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/hr_inside.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/lazy_wrapping.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/lazy_wrapping.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/leading_whitespace.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/leading_whitespace.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/loose.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/loose.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/loose_with_inline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/loose_with_inline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/multiline_inline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/multiline_inline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/nested.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/nested.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/numeric.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/numeric.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/tight.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/lists/tight.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/attribute.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/attribute.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/class.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/class.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/code.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/code.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/document.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/document.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/id.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/inline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/inline.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/inner_whitespace.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/inner_whitespace.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/leading_whitespace.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/leading_whitespace.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/list.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/list.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/list.todo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/multiple_classes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/multiple_classes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/quoted.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/meta/quoted.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/align.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/align.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/compact.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/compact.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/inline_formatting.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/inline_formatting.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/pipe_escape.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/pipe_escape.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/simple_leading.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/simple_leading.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/simple_no_leading.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/simple_no_leading.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/spaces_tolerance.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/features/tables/spaces_tolerance.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Amps_and_angle_encoding.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Amps_and_angle_encoding.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Amps_and_angle_encoding.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Auto_links.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Auto_links.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Auto_links.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Backslash_escapes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Backslash_escapes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Backslash_escapes.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Blockquotes_with_code_blocks.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Blockquotes_with_code_blocks.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Blockquotes_with_code_blocks.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Code_Blocks.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Code_Blocks.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Code_Blocks.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Code_Spans.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Code_Spans.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Code_Spans.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Hard-wrapped_paragraphs_with_list-like_lines.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Hard-wrapped_paragraphs_with_list-like_lines.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Hard-wrapped_paragraphs_with_list-like_lines.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Horizontal_rules.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Horizontal_rules.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Horizontal_rules.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Images.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Images.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Images.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Advanced).json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Advanced).text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Advanced).xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Simple).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Simple).json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Simple).text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_comments.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Inline_HTML_comments.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_inline_style.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_inline_style.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_inline_style.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_reference_style.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_reference_style.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_reference_style.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_shortcut_references.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_shortcut_references.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Links_shortcut_references.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Literal_quotes_in_titles.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Literal_quotes_in_titles.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Literal_quotes_in_titles.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Markdown_Documentation_-_Basics.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Markdown_Documentation_-_Basics.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Markdown_Documentation_-_Basics.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Markdown_Documentation_-_Syntax.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Markdown_Documentation_-_Syntax.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Markdown_Documentation_-_Syntax.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Nested_blockquotes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Nested_blockquotes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Nested_blockquotes.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Ordered_and_unordered_lists.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Ordered_and_unordered_lists.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Ordered_and_unordered_lists.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Strong_and_em_together.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Strong_and_em_together.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Strong_and_em_together.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Tabs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Tabs.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Tabs.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Tidyness.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Tidyness.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Markdown-from-MDTest1.1.mdtest/Tidyness.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Backslash_escapes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Backslash_escapes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Backslash_escapes.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Code_Spans.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Code_Spans.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Code_Spans.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Code_block_in_a_list_item.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Code_block_in_a_list_item.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Code_block_in_a_list_item.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Email_auto_links.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Email_auto_links.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Email_auto_links.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Emphasis.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Emphasis.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Emphasis.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Headers.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Headers.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Headers.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Horizontal_Rules.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Horizontal_Rules.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Horizontal_Rules.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Simple).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Simple).json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Simple).text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Span).json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Span).text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_(Span).xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_comments.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Inline_HTML_comments.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Ins_and_del.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Ins_and_del.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Ins_and_del.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Links_inline_style.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Links_inline_style.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Links_inline_style.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/MD5_Hashes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/MD5_Hashes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/MD5_Hashes.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Nesting.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Nesting.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Nesting.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/PHP-Specific_Bugs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/PHP-Specific_Bugs.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/PHP-Specific_Bugs.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Parens_in_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Parens_in_URL.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Parens_in_URL.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Tight_blocks.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Tight_blocks.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/PHP_Markdown-from-MDTest1.1.mdtest/Tight_blocks.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/CoreDumps5.8.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/CoreDumps5.8.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/CoreDumps5.8.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Emphasis.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Emphasis.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Emphasis.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/HTML-Comment-encoding.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/HTML-Comment-encoding.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/HTML-Comment-encoding.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/HTML5-attributes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/HTML5-attributes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/HTML5-attributes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_brackets.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_brackets.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_brackets.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_multiline_bugs_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_multiline_bugs_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_multiline_bugs_1.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_multiline_bugs_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_multiline_bugs_2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_multiline_bugs_2.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_reference_style.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_reference_style.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Links_reference_style.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Lists-multilevel-md5-edgecase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Lists-multilevel-md5-edgecase.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Lists-multilevel-md5-edgecase.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/PHP-ASP_tags.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/PHP-ASP_tags.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/PHP-ASP_tags.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Unicode.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Unicode.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/Text-Markdown.mdtest/Unicode.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/abbreviations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/abbreviations.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/abbreviations.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/alt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/alt.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/alt.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/blank.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/blank.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/blank.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/blanks_in_code.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/blanks_in_code.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/blanks_in_code.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/bug_def.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/bug_def.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/bug_def.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/bug_table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/bug_table.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/bug_table.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code2.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/code3.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/convert.pl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/data_loss.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/data_loss.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/data_loss.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/easy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/easy.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/easy.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/email.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/email.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/email.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/entities.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/entities.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/entities.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/escaping.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/escaping.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/escaping.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_dl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_dl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_dl.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_header_id.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_header_id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_header_id.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_table1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_table1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/extra_table1.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/footnotes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/footnotes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/footnotes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/headers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/headers.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/headers.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/hex_entities.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/hex_entities.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/hex_entities.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/hrule.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/hrule.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/hrule.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html2.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html3.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html4.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html5.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/html5.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/ie.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/ie.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/ie.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/images.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/images.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/images2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/images2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/images2.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/inline_html.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/inline_html.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/inline_html.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/inline_html2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/inline_html2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/inline_html2.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/links.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/links.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list1.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list2.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list3.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/list4.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists11.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists11.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists6.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists6.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists7.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists7.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists7b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists7b.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists7b.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists8.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists8.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists9.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists9.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists_after_paragraph.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists_after_paragraph.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists_after_paragraph.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists_ol.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists_ol.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/lists_ol.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/loss.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/loss.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/loss.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/misc_sw.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/misc_sw.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/misc_sw.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/olist.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/olist.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/olist.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/one.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/one.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/one.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/paragraph.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/paragraph.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/paragraph.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/paragraphs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/paragraphs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/paragraphs.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/smartypants.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/smartypants.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/smartypants.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/syntax_hl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/syntax_hl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/syntax_hl.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/table_attributes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/table_attributes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/table_attributes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/test.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/test.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/wrapping.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/wrapping.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/wrapping.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml2.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml3.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml_instruction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml_instruction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-maruku-unittest/xml_instruction.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Abbr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Abbr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Abbr.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Definition_Lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Definition_Lists.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Definition_Lists.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Emphasis.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Emphasis.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Emphasis.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Footnotes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Footnotes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Footnotes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Inline_HTML_with_Markdown_content.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Inline_HTML_with_Markdown_content.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Inline_HTML_with_Markdown_content.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Tables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Tables.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-extra/Tables.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Email_auto_links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Email_auto_links.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Email_auto_links.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Emphasis.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Emphasis.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Emphasis.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Inline_HTML_(Span).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Inline_HTML_(Span).json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Inline_HTML_(Span).text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Ins_and_del.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Ins_and_del.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Ins_and_del.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Links_inline_style.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Links_inline_style.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Links_inline_style.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Nesting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Nesting.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Nesting.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Parens_in_URL.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Parens_in_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown-todo/Parens_in_URL.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Backslash_escapes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Backslash_escapes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Backslash_escapes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Code_Spans.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Code_Spans.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Code_Spans.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Code_block_in_a_list_item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Code_block_in_a_list_item.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Code_block_in_a_list_item.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Headers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Headers.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Headers.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Images_(Untitled).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Images_(Untitled).json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Images_(Untitled).text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Inline_HTML_(Simple).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Inline_HTML_(Simple).json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Inline_HTML_(Simple).text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Inline_HTML_comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Inline_HTML_comments.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Inline_HTML_comments.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/PHP-Specific_Bugs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/PHP-Specific_Bugs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/PHP-Specific_Bugs.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Tight_blocks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Tight_blocks.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-php-markdown/Tight_blocks.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/auto_link.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/auto_link.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/auto_link.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/auto_link_safe_mode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/auto_link_safe_mode.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/auto_link_safe_mode.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/auto_link_safe_mode.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/basic_safe_mode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/basic_safe_mode.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/basic_safe_mode.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/basic_safe_mode.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/basic_safe_mode_escape.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/basic_safe_mode_escape.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/basic_safe_mode_escape.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/basic_safe_mode_escape.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/blockquote.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/blockquote.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/blockquote.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/blockquote_with_pre.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/blockquote_with_pre.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/blockquote_with_pre.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/code_block_with_tabs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/code_block_with_tabs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/code_block_with_tabs.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/code_safe_emphasis.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/code_safe_emphasis.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/code_safe_emphasis.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/code_safe_emphasis.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codeblock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codeblock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codeblock.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codespans.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codespans.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codespans.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codespans_safe_mode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codespans_safe_mode.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codespans_safe_mode.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/codespans_safe_mode.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emacs_head_vars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emacs_head_vars.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emacs_head_vars.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emacs_tail_vars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emacs_tail_vars.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emacs_tail_vars.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emphasis.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emphasis.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/emphasis.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/escapes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/escapes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/escapes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_letters.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_letters.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_letters.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_letters.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_markup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_markup.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_markup.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_markup.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_safe_mode_escape.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_safe_mode_escape.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_safe_mode_escape.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/footnotes_safe_mode_escape.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/header.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/header.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/hr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/hr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/hr.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/img_in_link.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/img_in_link.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/img_in_link.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/inline_links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/inline_links.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/inline_links.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/issue2_safe_mode_borks_markup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/issue2_safe_mode_borks_markup.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/issue2_safe_mode_borks_markup.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/issue2_safe_mode_borks_markup.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_defn_alt_title_delims.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_defn_alt_title_delims.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_defn_alt_title_delims.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns_double_hit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns_double_hit.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns_double_hit.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns_double_hit.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns_edge_cases.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns_edge_cases.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns_edge_cases.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/link_patterns_edge_cases.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/lists.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/lists.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/mismatched_footnotes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/mismatched_footnotes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/mismatched_footnotes.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/mismatched_footnotes.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/missing_link_defn.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/missing_link_defn.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/missing_link_defn.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/nested_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/nested_list.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/nested_list.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/nested_list_safe_mode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/nested_list_safe_mode.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/nested_list_safe_mode.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/nested_list_safe_mode.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/parens_in_url_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/parens_in_url_4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/parens_in_url_4.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/raw_html.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/raw_html.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/raw_html.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/ref_links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/ref_links.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/ref_links.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/sublist-para.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/sublist-para.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/sublist-para.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/syntax_color.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/syntax_color.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/syntax_color.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/syntax_color.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/tricky_anchors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/tricky_anchors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/tricky_anchors.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/underline_in_autolink.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/underline_in_autolink.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/fixtures/docs-pythonmarkdown2-tm-cases-pass/underline_in_autolink.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/interface.t.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/markdown/test/regressions.t.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/PATENTS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/react-dom-server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/react-dom-server.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/react-dom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/react-dom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/react-with-addons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/react-with-addons.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/react.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/react/react.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/angular/showdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/app/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/app/controllers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/app/services.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_ehcache_2_4_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_ehcache_4_3_11_Final.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/Application.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/Application.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/config/JpaConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/config/JpaConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/config/RedisConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/config/RedisConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/controller/ItemController.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/controller/ItemController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/exception/RedisSubException.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/exception/RedisSubException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/model/Item.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/model/Item.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/model/base/BaseModel.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/model/base/BaseModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/redis/RedisCacheProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/redis/RedisCacheProcessor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/redis/RedisSubProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/redis/RedisSubProcessor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/redis/listener/RedisMessageListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/redis/listener/RedisMessageListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/repository/ItemRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/repository/ItemRepository.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/util/DateUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/util/DateUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/util/IpUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/util/IpUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/util/ipaddress/QQWryFile.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/util/ipaddress/QQWryFile.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/util/ipaddress/QQWryHeader.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/util/ipaddress/QQWryHeader.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/util/ipaddress/QQWryIO.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/util/ipaddress/QQWryIO.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/util/ipaddress/QQWryIndex.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/util/ipaddress/QQWryIndex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/util/ipaddress/QQWryRecord.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/util/ipaddress/QQWryRecord.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/jinfuzi/opstd/util/ipaddress/Utils.java" afterPath="$PROJECT_DIR$/src/main/java/com/zyx/util/ipaddress/Utils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/com/jinfuzi/opstd/Test.java" afterPath="$PROJECT_DIR$/src/test/com/zyx/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opstd.iml" afterPath="$PROJECT_DIR$/opstd.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-    </list>
+    <list default="true" id="8e0b0b16-ab02-4098-a421-9ca902043971" name="Default" comment="" />
     <ignored path="spring-boot-jpa-hibernate-redis.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -989,15 +29,13 @@
     <favorites_list name="spring-boot-jpa-hibernate-redis" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1015,7 +53,7 @@
       <file leaf-file-name="JpaConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/config/JpaConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2678261">
+            <state vertical-scroll-proportion="1.4643478">
               <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
               <folding />
             </state>
@@ -1047,7 +85,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.5">
+            <state vertical-scroll-proportion="0.0">
               <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
               <folding />
             </state>
@@ -1059,20 +97,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#282#283#0" expanded="false" />
-                <element signature="e#307#308#0" expanded="false" />
-                <element signature="e#344#345#0" expanded="false" />
-                <element signature="e#372#373#0" expanded="false" />
-                <element signature="e#406#407#0" expanded="false" />
-                <element signature="e#436#437#0" expanded="false" />
-                <element signature="e#483#484#0" expanded="false" />
-                <element signature="e#521#522#0" expanded="false" />
-                <element signature="e#559#560#0" expanded="false" />
-                <element signature="e#593#594#0" expanded="false" />
-                <element signature="e#647#648#0" expanded="false" />
-                <element signature="e#693#694#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1082,9 +107,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1094,9 +117,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1106,11 +127,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#890#891#0" expanded="false" />
-                <element signature="e#967#968#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1202,7 +219,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1541,8 +559,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2008,6 +1025,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -2049,6 +1071,7 @@
       <option name="number" value="Default" />
       <updated>1459943252822</updated>
       <workItem from="1459943254234" duration="1555000" />
+      <workItem from="1460029056261" duration="65000" />
     </task>
     <servers />
   </component>
@@ -2073,36 +1096,36 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1555000" />
+    <option name="totallyTimeSpent" value="1620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17726293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1794181" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2117,11 +1140,92 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/config/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/zyx/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/repository/ItemRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/redis/listener/RedisMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/redis/RedisSubProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.4">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2153,29 +1257,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#545#546#0" expanded="false" />
-            <element signature="e#621#622#0" expanded="false" />
-            <element signature="e#724#725#0" expanded="false" />
-            <element signature="e#792#793#0" expanded="false" />
-            <element signature="e#926#927#0" expanded="false" />
-            <element signature="e#1003#1004#0" expanded="false" />
-            <element signature="e#1106#1107#0" expanded="false" />
-            <element signature="e#1174#1175#0" expanded="false" />
-            <element signature="e#1281#1282#0" expanded="false" />
-            <element signature="e#1346#1347#0" expanded="false" />
-            <element signature="e#1762#1763#0" expanded="false" />
-            <element signature="e#1832#1833#0" expanded="false" />
-            <element signature="e#1969#1970#0" expanded="false" />
-            <element signature="e#2042#2043#0" expanded="false" />
-            <element signature="e#2415#2416#0" expanded="false" />
-            <element signature="e#2485#2486#0" expanded="false" />
-            <element signature="e#2537#2538#0" expanded="false" />
-            <element signature="e#2602#2603#0" expanded="false" />
-            <element signature="e#2644#2645#0" expanded="false" />
-            <element signature="e#2709#2710#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2183,11 +1264,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#890#891#0" expanded="false" />
-            <element signature="e#967#968#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2195,20 +1272,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#282#283#0" expanded="false" />
-            <element signature="e#307#308#0" expanded="false" />
-            <element signature="e#344#345#0" expanded="false" />
-            <element signature="e#372#373#0" expanded="false" />
-            <element signature="e#406#407#0" expanded="false" />
-            <element signature="e#436#437#0" expanded="false" />
-            <element signature="e#483#484#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#647#648#0" expanded="false" />
-            <element signature="e#693#694#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2216,15 +1280,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding />
         </state>
@@ -2252,9 +1314,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2262,9 +1322,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2278,7 +1336,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zyx/config/JpaConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2678261">
+        <state vertical-scroll-proportion="1.4643478">
           <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
           <folding />
         </state>

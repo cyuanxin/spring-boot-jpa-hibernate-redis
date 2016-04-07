@@ -1,0 +1,16 @@
+#Maven
+/target/
+
+
+#Eclipse
+/.settings/
+/.classpath
+/.project
+
+
+#Intellij-idea
+.idea/tasks.xml
+.idea/workspace.xml
+*.iml
+*.ipr
+*.iws
