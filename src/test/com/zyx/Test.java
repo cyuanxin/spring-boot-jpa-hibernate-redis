@@ -14,7 +14,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created by zhangyuanxin on 2016/3/26.
+ * Created by zhangyuanxin on 2016/3/26 .
  */
 @RunWith(SpringJUnit4ClassRunner.class)   // 1
 @SpringApplicationConfiguration(classes = Application.class)  // 2
