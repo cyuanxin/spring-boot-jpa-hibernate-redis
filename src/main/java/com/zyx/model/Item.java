@@ -1,6 +1,7 @@
 package com.zyx.model;
 
 import javax.persistence.*;
+import java.util.Date;
 
 @Entity
 public class Item {
@@ -8,7 +9,7 @@ public class Item {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     @Column
-    private boolean checked;
+    private Date date;
     @Column
     private String description;
 
@@ -20,12 +21,12 @@ public class Item {
         this.id = id;
     }
 
-    public boolean isChecked() {
-        return checked;
+    public Date getDate() {
+        return date;
     }
 
-    public void setChecked(boolean checked) {
-        this.checked = checked;
+    public void setDate(Date date) {
+        this.date = date;
     }
 
     public String getDescription() {

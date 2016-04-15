@@ -28,8 +28,8 @@ public class Test {
     public void testItem() {
         List<Item> items = itemRepository.findAll();
         Item item = new Item();
-        item.setChecked(true);
-        item.setDescription("dddd");
+        item.setDate(new Date());
+        item.setDescription("zyx");
         itemRepository.saveAndFlush(item);
         for (Item item1 : itemRepository.findAll()) {
             System.out.println(item1);
