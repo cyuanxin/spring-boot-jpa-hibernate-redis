@@ -11,8 +11,8 @@
 #Intellij-idea
 /.idea/tasks.xml
 /.idea/workspace.xml
-*.iml
-*.ipr
-*.iws
+/*.iml
+/*.ipr
+/*.iws
 
 /README.md
