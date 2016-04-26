@@ -1,12 +1,9 @@
 package com.zyx.config;
 
-import com.zyx.Application;
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
-import net.sf.ehcache.config.CacheConfiguration;
+import com.zyx.Application;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.cache.CacheManager;
-import org.springframework.cache.ehcache.EhCacheCacheManager;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
@@ -73,6 +70,12 @@ class JpaConfig implements TransactionManagementConfigurer {
         Properties jpaProperties = new Properties();
         jpaProperties.put(org.hibernate.cfg.Environment.DIALECT, dialect);
         jpaProperties.put(org.hibernate.cfg.Environment.HBM2DDL_AUTO, hbm2ddlAuto);
+        jpaProperties.put("hibernate.cache.region.factory_class", "org.hibernate.cache.ehcache.EhCacheRegionFactory");
+        jpaProperties.put("hibernate.cache.use_second_level_cache", true);
+        jpaProperties.put("hibernate.cache.use_query_cache", true);
+
+        //useful for debugging
+        jpaProperties.put("hibernate.generate_statistics", true);
         entityManagerFactoryBean.setJpaProperties(jpaProperties);
         return entityManagerFactoryBean;
     }
@@ -82,26 +85,6 @@ class JpaConfig implements TransactionManagementConfigurer {
         return new JpaTransactionManager();
     }
 
-//    @Bean
-//    public CacheManager cacheManager() throws Exception {
-//        return new EhCacheCacheManager();
-//    }
 
-    @Bean(destroyMethod="shutdown")
-    public net.sf.ehcache.CacheManager ehCacheManager() {
-        CacheConfiguration cacheConfiguration = new CacheConfiguration();
-        cacheConfiguration.setName("myCacheName");
-        cacheConfiguration.setMemoryStoreEvictionPolicy("LRU");
-        cacheConfiguration.setMaxElementsInMemory(1000);
-        net.sf.ehcache.config.Configuration config = new net.sf.ehcache.config.Configuration();
-        config.addCache(cacheConfiguration);
-
-        return net.sf.ehcache.CacheManager.create(config);
-    }
-
-    @Bean
-    public CacheManager cacheManager() {
-        return new EhCacheCacheManager(ehCacheManager());
-    }
 
 }

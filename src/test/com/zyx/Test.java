@@ -49,5 +49,12 @@ public class Test {
 //        List<String> meanings = redisTemplate.opsForList().range("je", 0, -1);
     }
 
+    @org.junit.Test
+    public void testJpaHibernateCache() {
+        //通过console 可以发现执行 第一次:0 nanoseconds spent performing 0 L2C hits;第二次:412534 nanoseconds spent performing 1 L2C hits;
+        itemRepository.findAllByOrderByIdDesc();
+        itemRepository.findAllByOrderByIdDesc();
+    }
+
 
 }
