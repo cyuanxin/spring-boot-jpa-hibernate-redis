@@ -75,19 +75,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-lang3</artifactId>
-			<version>3.4</version>
-		</dependency>
 
-
-
-		<!--guava-->
-		<dependency>
-			<groupId>com.google.guava</groupId>
-			<artifactId>guava</artifactId>
-			<version>19.0-rc1</version>
-		</dependency>
 	</dependencies>
 </project>

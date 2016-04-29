@@ -17,3 +17,7 @@
   2. application:activateTopic，tradetopic 写topic name, 默认test1,test2(这是两个topic，一次监听可以多个。在RedisSubProcessor注册)
   3. RedisMessageListener 监听处理消息，令起个redis客户端，往test1，test2发布msg，就可以看到控制台打印消息
 
+## jpa-hibernate-cache
+
+* 通过 repository 上面方法添加注解@QueryHints(@QueryHint(name = "org.hibernate.cacheable", value = "true"))
+
